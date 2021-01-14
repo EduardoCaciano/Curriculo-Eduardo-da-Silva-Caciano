@@ -1,0 +1,183 @@
+#caixaPrincipal{
+    width: 1200;
+    height: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Lado esquerdo da página */
+
+#nome{
+   font-size: 45px; 
+}
+
+#esquerda{
+    background-color: dodgerblue;
+    float: left;
+    width: 400px;
+    height: 1250px;
+}
+
+#foto1{
+    height: 500px;
+    width: 392px;
+    margin: 5px 4px 0px;
+    text-align: center;
+}
+
+#foto{
+    width: 392px;
+    height: 500px;
+    border-radius: 8px;
+}
+
+.dados{
+    font-family: arial;
+}
+
+/* Lado direito da página */
+
+#direita{
+    background-color: aliceblue;
+    float: right;
+    width: 800px;
+    height: 1250px;
+}
+
+h1{
+    text-align: center;
+    font-family: arial;
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, transparent, blue, transparent);  
+  width: 750px;
+}
+
+#desenvolvedor{
+    text-align:center;
+    font-style:oblique;
+    font-family: arial;
+}
+
+h3{
+    text-align:center;
+    font-family: arial;
+}
+
+
+#objetivo{
+    height: 200px;
+    width: 300px;
+    margin: 10px 40px 5px;
+    float: left;
+}
+
+.texto{
+    text-align: left;
+    width: 300px;
+    font-size: 15px;
+    font-family: arial;
+}
+
+
+#competencias{
+    height: 200px;
+    width: 300px;
+    margin: 10px 40px 5px;
+    float: right;
+}
+
+#listaCompetencias{
+    text-align: left;
+    width: 300px;
+    font-size: 15px;
+    font-family: arial;
+}
+
+ul{ 
+    list-style-type:disc; 
+} 
+
+#historico{
+    font-family: arial;
+    text-align: center;
+}
+
+#escolas{
+    height: 200px;
+    width: 700px;
+    margin: 10px 50px 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.academico{
+    text-align: left;
+    font-family: arial;
+}
+
+#software{
+    height: 280px;
+    width: 250px;
+    margin: 10px 60px 5px;
+    float: left;
+}
+
+#qualidades{
+    height: 280px;
+    width: 350px;
+    margin: 10px 40px 5px;
+    float: right;
+}
+
+.tituloSoftware{
+    text-align: center;
+    font-family: arial;
+}
+
+#profissional{
+    margin-left: auto;
+    margin-right: auto;
+    margin: 10px 50px 40px;
+}
+
+#empregos{
+    text-align: center;
+    font-family: arial;
+}
+
+#textoEmpregos{
+    text-align: left;
+    font-family: arial;
+}
+
+#linguagens{
+    height: 200px;
+    width: 300px;
+    margin: 10px 40px 5px;
+    float: left;
+}
+
+#programacao{
+    height: 200px;
+    width: 300px;
+    margin: 10px 40px 5px;
+    float: right;
+}
+
+.titulolinguagem2{
+    text-align: center;
+    font-family: arial;
+}
+
+.itens{
+     text-align: left;
+    font-family: arial;
+}
+
+
+
